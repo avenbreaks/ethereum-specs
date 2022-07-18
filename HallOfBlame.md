@@ -7,7 +7,7 @@ High-level, QLC and DRAMless are far slower than "mainstream" SSDs
 
 # The Good
 
-"Mainstream" models that can sync mainnet Geth in a reasonable amount of time
+"Mainstream" models that can sync mainnet Geth in a reasonable amount of time. Use M.2 NVMe if your machine supports it.
 
 ## Hardware
 
