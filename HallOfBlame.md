@@ -5,7 +5,7 @@ This document aims to snapshot some known good and known bad models.
 
 High-level, QLC and DRAMless are far slower than "mainstream" SSDs
 
-# Known Good
+# The Good
 
 "Mainstream" models that can sync mainnet Geth in a reasonable amount of time
 
@@ -33,7 +33,7 @@ Performance NVMe will of course also work, like SK Hynix P41 Platinum, Sabrent R
 - AWS gp3 w/ 10k IOPS provisioned
 - Any baremetal/dedicated server service
 
-# Known Bad
+# The Bad
 
 These models are reportedly too slow to sync mainnet Geth.
 
@@ -47,3 +47,11 @@ These models are reportedly too slow to sync mainnet Geth.
 ## Cloud
 
 - Contabo SSD (results mixed - Contabo NVMe is fine)
+
+# The Ugly
+
+"Budget" models that can sync mainnet Geth, if slowly
+
+## Hardware
+
+- TBD
