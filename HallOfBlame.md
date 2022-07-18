@@ -20,6 +20,7 @@ High-level, QLC and DRAMless are far slower than "mainstream" SSDs
 - AData XPG Gammix S50 Lite
 - WD 3D NAND SATA
 - Crucial MX500 SATA
+- Samsung 870 EVO SATA
 
 Honorable Pi4 mention:
 
