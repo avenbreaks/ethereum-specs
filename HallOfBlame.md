@@ -27,6 +27,12 @@ Honorable Pi4 mention:
 
 Performance NVMe will of course also work, like Sabrent Rocket 4 Plus, Samsung 980 Pro, Kingston KC2000, &c.
 
+## Cloud
+
+- Netcup RS Servers / VPS Servers. RS is faster.
+- AWS gp3 w/ 10k IOPS provisioned
+- Any baremetal/dedicated server service
+
 # Known Bad
 
 These models are reportedly too slow to sync mainnet Geth.
