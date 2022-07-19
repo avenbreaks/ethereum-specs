@@ -5,7 +5,7 @@ This document aims to snapshot some known good and known bad models.
 
 For size, 2TB come recommended as of mid-2022. 1TB can work but requires more frequent pruning (Geth, Nethermind) or a ZFS/lz4/16k setup (Erigon).
 
-High-level, QLC and DRAMless are far slower than "mainstream" SSDs
+High-level, QLC and DRAMless are far slower than "mainstream" SSDs.
 
 # The Good
 
