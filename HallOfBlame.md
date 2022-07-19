@@ -17,6 +17,7 @@ High-level, QLC and DRAMless are far slower than "mainstream" SSDs
 - WD Black SN750 (but not SN750 SE)
 - HP EX950
 - Mushkin Pilot-E
+- Mushkin Redline Vortex
 - AData XPG Gammix S50 Lite
 
 - WD 3D NAND SATA
