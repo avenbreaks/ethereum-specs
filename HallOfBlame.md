@@ -33,7 +33,7 @@ Performance NVMe will of course also work, like SK Hynix P41 Platinum, Sabrent R
 ## Cloud
 
 - Netcup RS Servers / VPS Servers. RS is faster.
-- AWS gp3 w/ 10k IOPS provisioned
+- AWS gp3 w/ 10k IOPS provisioned and an m6i/a.xlarge
 - Any baremetal/dedicated server service
 
 # The Bad
