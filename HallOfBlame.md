@@ -26,7 +26,7 @@ High-level, QLC and DRAMless are far slower than "mainstream" SSDs
 
 Honorable Pi4 mention:
 
-- Samsung T5 USB - works but is slow, avoid if at all possible and go for M.2 NVMe instead
+- Samsung T5 USB - works but is slow, avoid if at all possible and go for M.2 NVMe instead, with Rock5 B or CM4.
 
 Performance NVMe will of course also work, like SK Hynix P41 Platinum, Sabrent Rocket 4 Plus, WD Black SN850(X), Samsung 980 Pro, Kingston KC2000, ADATA XPG Gammix S70, &c.
 
