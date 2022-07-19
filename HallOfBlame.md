@@ -49,7 +49,7 @@ These models are reportedly too slow to sync mainnet Geth.
 
 ## Cloud
 
-- Contabo SSD (results mixed - Contabo NVMe is fine)
+- Contabo SSD (results mixed - Contabo NVMe is fine but space-constrained)
 
 # The Ugly
 
