@@ -7,6 +7,8 @@ For size, 2TB come recommended as of mid-2022. 1TB can work but requires more fr
 
 High-level, QLC and DRAMless are far slower than "mainstream" SSDs.
 
+IOPS wise, Erigon uses the least by far, then Geth, then Besu, then Nethermind in ascending order of IOPS requirements.
+
 # The Good
 
 "Mainstream" models that can sync mainnet Geth in a reasonable amount of time. Use M.2 NVMe if your machine supports it.
@@ -40,7 +42,7 @@ Performance NVMe will of course also work, like SK Hynix P41 Platinum, Sabrent R
 
 # The Bad
 
-These models are reportedly too slow to sync mainnet Geth.
+These models are reportedly too slow to sync mainnet Geth. If you have one of these, try Erigon.
 
 ## Hardware
 
