@@ -47,9 +47,9 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 ## Hardware
 
 - WD Green SN350
-- Crucial BX500 SATA
+- Crucial BX500 SATA, HP S650 SATA, probably most SATA budget drives
 - Kingston NV1 (?)
-- Samsung T7 USB, but depends on firmware - with the right firmware it might still sync
+- Samsung T7 USB, even with current firmware
 
 ## Cloud
 
