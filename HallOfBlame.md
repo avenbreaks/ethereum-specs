@@ -40,6 +40,7 @@ Performance NVMe will of course also work, like SK Hynix P41 Platinum, Sabrent R
 - Netcup RS Servers / VPS Servers. RS is faster.
 - AWS gp3 w/ 10k IOPS provisioned and an m6i/a.xlarge
 - Any baremetal/dedicated server service
+- Contabo NVMe - fast enough but not enough space. 800 GiB is not sufficient.
 
 # The Bad
 
@@ -55,7 +56,6 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 ## Cloud
 
 - Contabo SSD
-- Contabo NVMe - fast enough but not enough space. 800 GiB is not sufficient.
 
 # The Ugly
 
