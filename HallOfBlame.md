@@ -53,7 +53,8 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 
 ## Cloud
 
-- Contabo SSD (results mixed - Contabo NVMe is fine but space-constrained)
+- Contabo SSD
+- Contabo NVMe - fast enough but not enough space. 800 GiB is not sufficient.
 
 # The Ugly
 
