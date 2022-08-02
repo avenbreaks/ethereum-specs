@@ -1,6 +1,7 @@
 # Overview
 
 Syncing an Ethereum node is largely reliant on IOPS, I/O Per Second. Budget SSDs will struggle to an extent, and some won't be able to sync at all.
+
 This document aims to snapshot some known good and known bad models. 
 
 For size, 2TB come recommended as of mid-2022. 1TB can work for now but is [getting tight](https://gist.github.com/yorickdowne/e4b271e1cbe8c8873884e08705084362).
