@@ -10,6 +10,10 @@ High-level, QLC and DRAMless are far slower than "mainstream" SSDs.
 
 IOPS wise, Erigon uses the least by far, then Geth, then Besu, then Nethermind in ascending order of IOPS requirements.
 
+Other than choosing a good SSD, these are things that can slow IOPS down:
+- Heat. Check with `smartctl -x`; the SSD should be below 50C so it does not throttle.
+- TRIM not being allowed. This can happen with some hardware RAID controllers, as well as on macOS with non-Apple SSDs
+
 # The Good
 
 "Mainstream" models that can sync mainnet Geth in a reasonable amount of time. Use M.2 NVMe if your machine supports it.
