@@ -53,7 +53,7 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 ## Hardware
 
 - WD Green SN350
-- Kingston NV1 (?)
+- Kingston NV1 ([probably](https://www.techpowerup.com/290339/psa-kingston-nv1-ssd-comes-with-a-hardware-spec-lottery-tlc-or-qlc-smi-or-phison) QLC and DRAMless and thus too slow on 2TB, but could be "anything" as Kingston do not guarantee specific components)
 - Crucial BX500 SATA, HP S650 SATA, probably most SATA budget drives
 - Samsung T7 USB, even with current firmware
 
@@ -67,4 +67,4 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 
 ## Hardware
 
-- TBD
+- Inland Professional 3D NAND - it's QLC but reportedly can sync Geth
