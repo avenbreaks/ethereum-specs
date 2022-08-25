@@ -54,6 +54,7 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 
 - WD Green SN350
 - Kingston NV1 ([probably](https://www.techpowerup.com/290339/psa-kingston-nv1-ssd-comes-with-a-hardware-spec-lottery-tlc-or-qlc-smi-or-phison) QLC and DRAMless and thus too slow on 2TB, but could be "anything" as Kingston do not guarantee specific components)
+- Anything both QLC and DRAMless will likely not be able to sync at all or not be able to consistently keep up with "chain head"
 - Crucial BX500 SATA, HP S650 SATA, probably most SATA budget drives
 - Samsung T7 USB, even with current firmware
 
