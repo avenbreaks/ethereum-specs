@@ -20,6 +20,7 @@ Other than a slow SSD, these are things that can slow IOPS down:
 
 ## Hardware
 
+M.2 NVMe
 - SK Hynix P31 Gold
 - Samsung 970 EVO Plus 2TB (the 1TB model is slower but should still work)
 - WD Red SN700
@@ -28,7 +29,7 @@ Other than a slow SSD, these are things that can slow IOPS down:
 - Mushkin Pilot-E
 - Mushkin Redline Vortex
 - AData XPG Gammix S50 Lite
-
+2.5" SATA
 - WD Blue 3D NAND SATA
 - Crucial MX500 SATA
 - Samsung 870 EVO SATA
