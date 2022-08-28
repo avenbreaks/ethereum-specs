@@ -43,7 +43,7 @@ Performance NVMe will of course also work, like SK Hynix P41 Platinum, Sabrent R
 
 ## Cloud
 
-- Netcup RS Servers / VPS Servers. RS is faster.
+- Netcup RS Servers / VPS Servers. RS is faster; VPS reportedly can sync Geth but not Nethermind.
 - AWS gp3 w/ 10k IOPS provisioned and an m6i/a.xlarge
 - Any baremetal/dedicated server service
 - Contabo NVMe - fast enough but not enough space. 800 GiB is not sufficient.
