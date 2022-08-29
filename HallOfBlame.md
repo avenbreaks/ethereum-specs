@@ -70,5 +70,6 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 
 ## Hardware
 
-- Inland Professional 3D NAND - it's QLC but reportedly can sync Geth
-- Seagata Barracuda Q5 - it's QLC but reportedly can sync Geth
+- Inland Professional 3D NAND, QLC
+- Seagata Barracuda Q5, QLC
+- Samsung 870 QVO SATA, QLC
