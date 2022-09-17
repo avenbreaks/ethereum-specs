@@ -28,7 +28,7 @@ M.2 NVMe
 - HP EX950
 - AData XPG Gammix S50 Lite
 - WD Red SN700
-- Samsung 970 EVO Plus 2TB, [pre-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 2B2QEXM7)
+- Samsung 970 EVO Plus 2TB, [pre-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too)
 
 2.5" SATA
 - WD Blue 3D NAND SATA
@@ -70,7 +70,7 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 
 ## Hardware
 
-- Samsung 970 EVO Plus 2TB, [post-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 3B2QEXM7)
+- Samsung 970 EVO Plus 2TB, [post-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too)
 - Inland Professional 3D NAND, QLC
 - Seagata Barracuda Q5, QLC
 - Samsung 870 QVO SATA, QLC
