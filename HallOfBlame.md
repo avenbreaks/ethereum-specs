@@ -13,6 +13,7 @@ IOPS wise, Erigon uses the least by far, then Geth, then Besu, then Nethermind i
 Other than a slow SSD, these are things that can slow IOPS down:
 - Heat. Check with `smartctl -x`; the SSD should be below 50C so it does not throttle.
 - TRIM not being allowed. This can happen with some hardware RAID controllers, as well as on macOS with non-Apple SSDs
+- On SATA, the controller in UEFI/BIOS set to anything other than AHCI
 
 # The Good
 
