@@ -30,6 +30,7 @@ M.2 NVMe
 - WD Red SN700
 - Samsung 970 EVO Plus 2TB, [pre-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 2B2QEXM7)
 - Samsung 970 EVO Plus 2TB, [post-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 3B2QEXM7 or 4B2QEXM7) - this probably belongs here, real-world sync times welcome!
+
 2.5" SATA
 - WD Blue 3D NAND SATA
 - Crucial MX500 SATA
