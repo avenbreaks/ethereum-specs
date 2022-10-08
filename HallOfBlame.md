@@ -61,8 +61,6 @@ Likewise, data center SSD drives will work well.
 
 - Any baremetal/dedicated server service
 - AWS gp3 w/ 10k IOPS provisioned and an m6i/a.xlarge
-- Contabo NVMe - fast enough but not enough space. 800 GiB is not sufficient.
-- Netcup RS Servers / VPS Servers. RS is faster; VPS reportedly can sync Geth but not Nethermind.
 
 # The Bad
 
@@ -90,3 +88,8 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 - Intel 660p, QLC
 - Seagata Barracuda Q5, QLC
 - Samsung 870 QVO SATA, QLC
+
+## Cloud
+
+- Contabo NVMe - fast enough but not enough space. 800 GiB is not sufficient.
+- Netcup RS Servers / VPS Servers. RS is faster; VPS reportedly can sync Geth but not Nethermind.
