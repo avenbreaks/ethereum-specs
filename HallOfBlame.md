@@ -35,7 +35,7 @@ M.2 NVMe "mainstream" - TLC, DRAM, PCIe 3
 2.5" SATA "mainstream" - TLC, DRAM
 - WD Blue 3D NAND SATA
 - Crucial MX500 SATA
-- Samsung 870 EVO SATA
+- Samsung 860/870 EVO SATA
 
 Honorable Pi4 mention:
 
@@ -45,7 +45,7 @@ Performance NVMe will of course also work. This is a non-exhaustive list!
 - SK Hynix P41 Platinum
 - Sabrent Rocket 4 Plus
 - WD Black SN850(X)
-- Samsung 980 Pro
+- Samsung 980/990 Pro
 - Kingston KC2000
 - ADATA XPG Gammix S70
 - Crucial P5 Plus
