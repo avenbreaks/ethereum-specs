@@ -15,6 +15,8 @@ Other than a slow SSD, these are things that can slow IOPS down:
 - TRIM not being allowed. This can happen with some [hardware RAID controllers](https://gist.github.com/yorickdowne/fd36009c19fdbee0337bffc0d5ad8284), as well as on macOS with [non-Apple SSDs](https://www.lifewire.com/enable-trim-for-ssd-in-os-x-yosemite-2260789)
 - On SATA, the controller in UEFI/BIOS set to anything other than [AHCI](https://www.addictivetips.com/windows-tips/enable-ahci-bios/)
 
+The drive lists are ordered by interface and alphabetical name, not preference.
+
 # The Good
 
 "Mainstream" models that can sync mainnet Geth in a reasonable amount of time. Use M.2 NVMe if your machine supports it.
