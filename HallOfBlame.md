@@ -18,6 +18,7 @@ Other than a slow SSD, these are things that can slow IOPS down:
 # The Good
 
 "Mainstream" models that can sync mainnet Geth in a reasonable amount of time. Use M.2 NVMe if your machine supports it.
+Note that in some cases older "Performance" PCIe 4 models can go for less than a PCIe 3 "mainstream" drive - shop around.
 
 ## Hardware
 
