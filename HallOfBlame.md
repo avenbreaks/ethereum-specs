@@ -59,10 +59,10 @@ Likewise, data center SSD drives will work well.
 
 ## Cloud
 
-- Netcup RS Servers / VPS Servers. RS is faster; VPS reportedly can sync Geth but not Nethermind.
-- AWS gp3 w/ 10k IOPS provisioned and an m6i/a.xlarge
 - Any baremetal/dedicated server service
+- AWS gp3 w/ 10k IOPS provisioned and an m6i/a.xlarge
 - Contabo NVMe - fast enough but not enough space. 800 GiB is not sufficient.
+- Netcup RS Servers / VPS Servers. RS is faster; VPS reportedly can sync Geth but not Nethermind.
 
 # The Bad
 
