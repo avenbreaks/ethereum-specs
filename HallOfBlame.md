@@ -52,7 +52,7 @@ Performance NVMe will of course also work. This is a non-exhaustive list!
 - Corsair Force MP600
 - &c. A "performance NVMe" uses TLC, DRAM, and PCIe 4 or 5.
 
-Likewise, data center SSD drives will work.
+Likewise, data center SSD drives will work well.
 
 ## Cloud
 
