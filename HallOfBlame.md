@@ -23,7 +23,7 @@ Other than a slow SSD, these are things that can slow IOPS down:
 
 M.2 NVMe "mainstream" - TLC, DRAM, PCIe 3
 - SK Hynix P31 Gold
-- Mushkin Redline Vortex
+- Mushkin Redline Vortex (PCIe 4)
 - Mushkin Pilot-E
 - WD Black SN750 (but not SN750 SE)
 - HP EX950
