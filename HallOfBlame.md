@@ -21,7 +21,7 @@ Other than a slow SSD, these are things that can slow IOPS down:
 
 ## Hardware
 
-M.2 NVMe
+M.2 NVMe "mainstream" - TLC, DRAM, PCIe 3
 - SK Hynix P31 Gold
 - Mushkin Redline Vortex
 - Mushkin Pilot-E
@@ -32,7 +32,7 @@ M.2 NVMe
 - Samsung 970 EVO Plus 2TB, [pre-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 2B2QEXM7)
 - Samsung 970 EVO Plus 2TB, [post-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 3B2QEXM7 or 4B2QEXM7) - this probably belongs here, real-world sync times welcome!
 
-2.5" SATA
+2.5" SATA "mainstream" - TLC, DRAM
 - WD Blue 3D NAND SATA
 - Crucial MX500 SATA
 - Samsung 870 EVO SATA
@@ -41,7 +41,18 @@ Honorable Pi4 mention:
 
 - Samsung T5 USB - works but is slow, avoid if at all possible and go for M.2 NVMe instead, with [Rock5 B](https://ameridroid.com/products/rock5-model-b) or [CM4](https://thepihut.com/products/pci-e-to-m-2-adapter-for-raspberry-pi-cm4-io-board). To clarify: If you stay with Pi4, then T5 USB or USB M.2 NVMe adapter should roughly perform the same. Choose either. Maybe consider going for NVMe and a USB adapter so you can upgrade to a Rock5 B in future.
 
-Performance NVMe will of course also work, like SK Hynix P41 Platinum, Sabrent Rocket 4 Plus, WD Black SN850(X), Samsung 980 Pro, Kingston KC2000, ADATA XPG Gammix S70, Crucial P5 Plus, &c. Likewise, data center SSD drives will work.
+Performance NVMe will of course also work. This is a non-exhaustive list!
+- SK Hynix P41 Platinum
+- Sabrent Rocket 4 Plus
+- WD Black SN850(X)
+- Samsung 980 Pro
+- Kingston KC2000
+- ADATA XPG Gammix S70
+- Crucial P5 Plus
+- Corsair Force MP600
+- &c. A "performance NVMe" uses TLC, DRAM, and PCIe 4 or 5.
+
+Likewise, data center SSD drives will work.
 
 ## Cloud
 
