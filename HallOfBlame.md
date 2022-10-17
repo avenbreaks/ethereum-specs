@@ -87,6 +87,7 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 - Inland Professional 3D NAND, QLC
 - Intel 660p, QLC
 - Seagata Barracuda Q5, QLC
+- WD Black SN770, DRAMless
 - Samsung 870 QVO SATA, QLC
 
 ## Cloud
