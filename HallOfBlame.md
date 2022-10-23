@@ -29,7 +29,7 @@ M.2 NVMe "mainstream" - TLC, DRAM, PCIe 3
 - HP EX950
 - Mushkin Pilot-E
 - Samsung 970 EVO Plus 2TB, [pre-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 2B2QEXM7)
-- Samsung 970 EVO Plus 2TB, [post-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 3B2QEXM7 or 4B2QEXM7) - this probably belongs here, real-world sync times welcome!
+- Samsung 970 EVO Plus 2TB, [post-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 3B2QEXM7 or 4B2QEXM7) In testing this syncs just as quickly as the pre-rework drive. 
 - SK Hynix P31 Gold
 - WD Black SN750 (but not SN750 SE)
 - WD Red SN700
