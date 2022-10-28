@@ -47,7 +47,7 @@ Performance NVMe will of course also work. This is a non-exhaustive list!
 - ADATA XPG Gammix S70
 - Corsair Force MP600
 - Crucial P5 Plus
-- Kingston KC2000
+- Kingston KC2000 / KC3000
 - Mushkin Redline Vortex
 - Sabrent Rocket 4 Plus
 - Samsung 980/990 Pro
