@@ -47,7 +47,7 @@ Performance NVMe will of course also work. This is a non-exhaustive list!
 - ADATA XPG Gammix S70
 - Corsair Force MP600
 - Crucial P5 Plus
-- Kingston KC2000 / KC3000
+- Kingston KC2000 / KC3000 / Fury Renegade
 - Mushkin Redline Vortex
 - Sabrent Rocket 4 Plus
 - Samsung 980/990 Pro
@@ -86,6 +86,7 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 
 - Inland Professional 3D NAND, QLC
 - Intel 660p, QLC
+- Kingston NV2, DRAMless (based only on specs and review, testing needed)
 - Seagata Barracuda Q5, QLC
 - WD Black SN770, DRAMless
 - Samsung 870 QVO SATA, QLC
