@@ -84,6 +84,7 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 
 ## Hardware
 
+- Corsair MP400, QLC
 - Inland Professional 3D NAND, QLC
 - Intel 660p, QLC
 - Kingston NV2, DRAMless (based only on specs and review, testing needed)
