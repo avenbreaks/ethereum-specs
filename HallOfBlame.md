@@ -69,6 +69,7 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 ## Hardware
 
 - Kingston NV1 ([probably](https://www.techpowerup.com/290339/psa-kingston-nv1-ssd-comes-with-a-hardware-spec-lottery-tlc-or-qlc-smi-or-phison) QLC and DRAMless and thus too slow on 2TB, but could be "anything" as Kingston do not guarantee specific components)
+- Kingston NV2 (too slow to sync Nethermind in testing; like NV1 no guaranteed components)
 - WD Green SN350
 - Anything both QLC and DRAMless will likely not be able to sync at all or not be able to consistently keep up with "chain head"
 - Crucial BX500 SATA, HP S650 SATA, probably most SATA budget drives
@@ -88,7 +89,6 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 - Crucial P3, QLC and DRAMless
 - Inland Professional 3D NAND, QLC
 - Intel 660p, QLC
-- Kingston NV2, DRAMless (based only on specs and review, testing needed)
 - Seagata Barracuda Q5, QLC
 - WD Black SN770, DRAMless
 - Samsung 870 QVO SATA, QLC
