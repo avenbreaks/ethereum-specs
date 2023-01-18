@@ -8,7 +8,7 @@ For size, 2TB come recommended as of mid-2022. 1TB can work for now but is [gett
 
 High-level, QLC and DRAMless are far slower than "mainstream" SSDs.
 
-IOPS wise, Erigon uses the least by far, then Geth, then Besu, then Nethermind in ascending order of IOPS requirements.
+IOPS wise, it's likely Geth, then Besu, then Nethermind in ascending order of IOPS requirements. I am not quite sure where Erigon fits these days.
 
 Other than a slow SSD, these are things that can slow IOPS down:
 - Heat. Check with `smartctl -x`; the SSD should be below 50C so it does not throttle.
@@ -64,7 +64,7 @@ Likewise, data center SSD drives will work well.
 
 # The Bad
 
-These models are reportedly too slow to sync mainnet Geth. If you have one of these, try Erigon.
+These models are reportedly too slow to sync mainnet Geth.
 
 ## Hardware
 
@@ -91,7 +91,7 @@ These models are reportedly too slow to sync mainnet Geth. If you have one of th
 - Inland Professional 3D NAND, QLC
 - Intel 660p, QLC
 - Seagata Barracuda Q5, QLC
-- WD Black SN770, DRAMless
+- WD Black SN770, DRAMless - one report of Erigon periodically falling out of sync
 - Samsung 870 QVO SATA, QLC
 
 ## Cloud
