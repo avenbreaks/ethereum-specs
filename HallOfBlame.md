@@ -82,7 +82,7 @@ These models are reportedly too slow to sync mainnet Geth.
 
 # The Ugly
 
-"Budget" models that can sync mainnet Geth, if slowly
+"Budget" models that reportedly can sync mainnet Geth, if slowly
 
 ## Hardware
 
