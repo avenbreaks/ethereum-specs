@@ -91,7 +91,7 @@ These models are reportedly too slow to sync mainnet Geth.
 - Inland Professional 3D NAND, QLC
 - Intel 660p, QLC
 - Seagata Barracuda Q5, QLC
-- WD Black SN770, DRAMless - one report of Erigon periodically falling out of sync
+- WD Black SN770, DRAMless
 - Samsung 870 QVO SATA, QLC
 
 ## Cloud
