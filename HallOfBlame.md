@@ -50,7 +50,8 @@ Performance NVMe will of course also work. This is a non-exhaustive list!
 - Kingston KC2000 / KC3000 / Fury Renegade
 - Mushkin Redline Vortex
 - Sabrent Rocket 4 Plus
-- Samsung 980 Pro (**not** 980) / 990 Pro - there are reports of 990 Pro [rapidly losing health](https://www.tomshardware.com/news/samsung-990-pro-health-dropping-fast)
+- Samsung 980 Pro (**not** 980)
+- Samsung 990 Pro - there are reports of 990 Pro [rapidly losing health](https://www.tomshardware.com/news/samsung-990-pro-health-dropping-fast)
 - SK Hynix P41 Platinum
 - WD Black SN850(X)
 - &c. A "performance NVMe" uses TLC, DRAM, and PCIe 4 or 5.
