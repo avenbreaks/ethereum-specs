@@ -21,9 +21,9 @@ The drive lists are ordered by interface and alphabetically by vendor name, not 
 
 # The Good
 
-"Mainstream" and "Performance" models that can sync mainnet execution layer clients in a reasonable amount of time. Use M.2 NVMe if your machine supports it.
+"Mainstream" and "Performance" drive models that can sync mainnet execution layer clients in a reasonable amount of time. Use M.2 NVMe if your machine supports it.
 
-Note that in some cases older "Performance" PCIe 4 models can be bought at a lower price than a PCIe 3 "Mainstream" drive - shop around.
+Note that in some cases older "Performance" PCIe 4 drives can be bought at a lower price than a PCIe 3 "Mainstream" drive - shop around.
 
 ## Hardware
 
@@ -67,7 +67,7 @@ Data center SSD drives will also work well.
 
 # The Bad
 
-These "Budget" models are reportedly too slow to sync (all) mainnet execution layer clients.
+These "Budget" drive models are reportedly too slow to sync (all) mainnet execution layer clients.
 
 ## Hardware
 
@@ -87,7 +87,7 @@ These "Budget" models are reportedly too slow to sync (all) mainnet execution la
 
 # The Ugly
 
-"Budget" models that reportedly can sync mainnet execution layer clients, if slowly
+"Budget" drive models that reportedly can sync mainnet execution layer clients, if slowly
 
 ## Hardware
 
