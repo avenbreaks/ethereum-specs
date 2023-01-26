@@ -15,6 +15,8 @@ Other than a slow SSD, these are things that can slow IOPS down:
 - TRIM not being allowed. This can happen with some [hardware RAID controllers](https://gist.github.com/yorickdowne/fd36009c19fdbee0337bffc0d5ad8284), as well as on macOS with [non-Apple SSDs](https://www.lifewire.com/enable-trim-for-ssd-in-os-x-yosemite-2260789)
 - On SATA, the controller in UEFI/BIOS set to anything other than [AHCI](https://www.addictivetips.com/windows-tips/enable-ahci-bios/)
 
+If you haven't already, do [turn off atime](https://opensource.com/article/20/6/linux-noatime) on your DB volume, it'll increase SSD lifetime and speed things up a little bit.
+
 The drive lists are ordered by interface and alphabetically by vendor name, not by preference.
 
 # The Good
