@@ -21,7 +21,7 @@ The drive lists are ordered by interface and alphabetically by vendor name, not 
 
 # The Good
 
-"Mainstream" models that can sync mainnet Geth in a reasonable amount of time. Use M.2 NVMe if your machine supports it.
+"Mainstream" models that can sync mainnet execution layer clients in a reasonable amount of time. Use M.2 NVMe if your machine supports it.
 Note that in some cases older "Performance" PCIe 4 models can go for less than a PCIe 3 "mainstream" drive - shop around.
 
 ## Hardware
@@ -67,7 +67,7 @@ Likewise, data center SSD drives will work well.
 
 # The Bad
 
-These models are reportedly too slow to sync mainnet Geth.
+These models are reportedly too slow to sync (all) mainnet execution layer clients.
 
 ## Hardware
 
@@ -87,7 +87,7 @@ These models are reportedly too slow to sync mainnet Geth.
 
 # The Ugly
 
-"Budget" models that reportedly can sync mainnet Geth, if slowly
+"Budget" models that reportedly can sync mainnet execution layer clients, if slowly
 
 ## Hardware
 
