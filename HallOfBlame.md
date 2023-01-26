@@ -10,7 +10,7 @@ High-level, QLC and DRAMless are far slower than "mainstream" SSDs.
 
 IOPS wise, it's likely Geth, then Besu, then Nethermind in ascending order of IOPS requirements. I am not quite sure where Erigon fits these days.
 
-Other than a slow SSD, these are things that can slow IOPS down:
+Other than a slow SSD model, these are things that can slow IOPS down:
 - Heat. Check with `smartctl -x`; the SSD should be below 50C so it does not throttle.
 - TRIM not being allowed. This can happen with some [hardware RAID controllers](https://gist.github.com/yorickdowne/fd36009c19fdbee0337bffc0d5ad8284), as well as on macOS with [non-Apple SSDs](https://www.lifewire.com/enable-trim-for-ssd-in-os-x-yosemite-2260789)
 - On SATA, the controller in UEFI/BIOS set to anything other than [AHCI](https://www.addictivetips.com/windows-tips/enable-ahci-bios/)
