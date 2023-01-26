@@ -17,7 +17,7 @@ Other than a slow SSD model, these are things that can slow IOPS down:
 
 If you haven't already, do [turn off atime](https://opensource.com/article/20/6/linux-noatime) on your DB volume, it'll increase SSD lifetime and speed things up a little bit.
 
-The drive lists are ordered by interface and alphabetically by vendor name, not by preference. The lists are not exhaustive at all.
+The drive lists are ordered by interface and alphabetically by vendor name, not by preference. The lists are not exhaustive at all. @mwpastore linked a [filterable spreadsheet](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit#gid=0) in comments that has a far greater variety of drives and their characteristics.
 
 # The Good
 
