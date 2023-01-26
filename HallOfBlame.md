@@ -17,7 +17,7 @@ Other than a slow SSD model, these are things that can slow IOPS down:
 
 If you haven't already, do [turn off atime](https://opensource.com/article/20/6/linux-noatime) on your DB volume, it'll increase SSD lifetime and speed things up a little bit.
 
-The drive lists are ordered by interface and alphabetically by vendor name, not by preference.
+The drive lists are ordered by interface and alphabetically by vendor name, not by preference. The lists are not exhaustive at all.
 
 # The Good
 
@@ -45,7 +45,7 @@ Honorable Pi4 mention:
 
 - Samsung T5 USB - works but is slow, avoid if at all possible and go for M.2 NVMe instead, with [Rock5 B](https://ameridroid.com/products/rock5-model-b) or [CM4](https://thepihut.com/products/pci-e-to-m-2-adapter-for-raspberry-pi-cm4-io-board). To clarify: If you stay with Pi4, then T5 USB or USB M.2 NVMe adapter should roughly perform the same. Choose either. Maybe consider going for NVMe and a USB adapter so you can upgrade to a Rock5 B in future.
 
-Performance NVMe will of course also work. This is a non-exhaustive list!
+M.2 "Performance" NVMe -TLC, DRAM, PCIe 4 or 5
 - ADATA XPG Gammix S70
 - Corsair Force MP600
 - Crucial P5 Plus
@@ -56,9 +56,8 @@ Performance NVMe will of course also work. This is a non-exhaustive list!
 - Samsung 990 Pro - there are reports of 990 Pro [rapidly losing health](https://www.tomshardware.com/news/samsung-990-pro-health-dropping-fast)
 - SK Hynix P41 Platinum
 - WD Black SN850(X)
-- &c. A "performance NVMe" uses TLC, DRAM, and PCIe 4 or 5.
 
-Likewise, data center SSD drives will work well.
+Data center SSD drives will also work well.
 
 ## Cloud
 
