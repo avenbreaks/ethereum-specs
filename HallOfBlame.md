@@ -77,7 +77,7 @@ These models are reportedly too slow to sync (all) mainnet execution layer clien
 - WD Green SN350
 - Anything both QLC and DRAMless will likely not be able to sync at all or not be able to consistently keep up with "chain head"
 - Crucial BX500 SATA, HP S650 SATA, probably most SATA budget drives
-- Samsung 980, DRAMless - unsure, this may belong in "Ugly". If you have one and can say for sure, please come to ethstaker Discord.
+- Samsung 980, DRAMless - unsure, this may belong in "Ugly". If you have one and can say for sure, please come to [ethstaker Discord](https://discord.io/ethstaker).
 - Samsung T7 USB, even with current firmware
 
 ## Cloud
