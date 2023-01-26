@@ -21,7 +21,8 @@ The drive lists are ordered by interface and alphabetically by vendor name, not 
 
 # The Good
 
-"Mainstream" models that can sync mainnet execution layer clients in a reasonable amount of time. Use M.2 NVMe if your machine supports it.
+"Mainstream" and "Performance" models that can sync mainnet execution layer clients in a reasonable amount of time. Use M.2 NVMe if your machine supports it.
+
 Note that in some cases older "Performance" PCIe 4 models can go for less than a PCIe 3 "mainstream" drive - shop around.
 
 ## Hardware
