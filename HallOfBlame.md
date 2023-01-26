@@ -69,6 +69,7 @@ These models are reportedly too slow to sync mainnet Geth.
 
 ## Hardware
 
+- Crucial P3, QLC and DRAMless - users report that it can sync Geth but cannot stay in sync for Nethermind
 - Kingston NV1 ([probably](https://www.techpowerup.com/290339/psa-kingston-nv1-ssd-comes-with-a-hardware-spec-lottery-tlc-or-qlc-smi-or-phison) QLC and DRAMless and thus too slow on 2TB, but could be "anything" as Kingston do not guarantee specific components)
 - Kingston NV2 (too slow to sync Nethermind in testing; might be able to sync Geth; like NV1 no guaranteed components)
 - WD Green SN350
@@ -89,7 +90,6 @@ These models are reportedly too slow to sync mainnet Geth.
 ## Hardware
 
 - Corsair MP400, QLC
-- Crucial P3, QLC and DRAMless
 - Inland Professional 3D NAND, QLC
 - Intel 660p, QLC
 - Seagata Barracuda Q5, QLC
