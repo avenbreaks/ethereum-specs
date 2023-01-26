@@ -74,7 +74,7 @@ These models are reportedly too slow to sync (all) mainnet execution layer clien
 - Crucial P3 Plus, QLC and DRAMless - users report that it can sync Geth but cannot stay in sync for Nethermind
 - Kingston NV1 ([probably](https://www.techpowerup.com/290339/psa-kingston-nv1-ssd-comes-with-a-hardware-spec-lottery-tlc-or-qlc-smi-or-phison) QLC and DRAMless and thus too slow on 2TB, but could be "anything" as Kingston do not guarantee specific components)
 - Kingston NV2 (too slow to sync Nethermind in testing; might be able to sync Geth; like NV1 no guaranteed components)
-- WD Green SN350
+- WD Green SN350, QLC and DRAMless
 - Anything both QLC and DRAMless will likely not be able to sync at all or not be able to consistently keep up with "chain head"
 - Crucial BX500 SATA, HP S650 SATA, probably most SATA budget drives
 - Samsung 980, DRAMless - unsure, this may belong in "Ugly". If you have one and can say for sure, please come to [ethstaker Discord](https://discord.io/ethstaker).
