@@ -23,11 +23,11 @@ The drive lists are ordered by interface and alphabetically by vendor name, not 
 
 "Mainstream" and "Performance" models that can sync mainnet execution layer clients in a reasonable amount of time. Use M.2 NVMe if your machine supports it.
 
-Note that in some cases older "Performance" PCIe 4 models can go for less than a PCIe 3 "mainstream" drive - shop around.
+Note that in some cases older "Performance" PCIe 4 models can go for less than a PCIe 3 "Mainstream" drive - shop around.
 
 ## Hardware
 
-M.2 NVMe "mainstream" - TLC, DRAM, PCIe 3
+M.2 NVMe "Mainstream" - TLC, DRAM, PCIe 3
 - AData XPG Gammix S50 Lite
 - HP EX950
 - Mushkin Pilot-E
@@ -37,7 +37,7 @@ M.2 NVMe "mainstream" - TLC, DRAM, PCIe 3
 - WD Black SN750 (but not SN750 SE)
 - WD Red SN700
 
-2.5" SATA "mainstream" - TLC, DRAM
+2.5" SATA "Mainstream" - TLC, DRAM
 - Crucial MX500 SATA
 - Samsung 860/870 EVO SATA
 - WD Blue 3D NAND SATA
@@ -67,7 +67,7 @@ Data center SSD drives will also work well.
 
 # The Bad
 
-These models are reportedly too slow to sync (all) mainnet execution layer clients.
+These "Budget" models are reportedly too slow to sync (all) mainnet execution layer clients.
 
 ## Hardware
 
