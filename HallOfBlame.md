@@ -55,6 +55,7 @@ M.2 NVMe "Performance" - TLC, DRAM, PCIe 4 or 5
 - Sabrent Rocket 4 Plus
 - Samsung 980 Pro (**not** 980) - a [firmware update](https://www.tomshardware.com/news/samsung-980-pro-ssd-failures-firmware-update) to 5B2QGXA7 is necessary to keep them from dying, if they are firmware 3B2QGXA7. Samsung's boot Linux is a bit broken, you may want to flash [from your own Linux](https://blog.quindorian.org/2021/05/firmware-update-samsung-ssd-in-linux.html/).
 - Samsung 990 Pro - there are reports of 990 Pro [rapidly losing health](https://www.tomshardware.com/news/samsung-990-pro-health-dropping-fast)
+- Seagate Firecuda 530
 - SK Hynix P41 Platinum
 - WD Black SN850(X)
 
@@ -71,6 +72,7 @@ These "Budget" drive models are reportedly too slow to sync (all) mainnet execut
 
 ## Hardware
 
+- AData S40G 4TB, QLC - the 2TB model is QLC and *should* be fine; 4TB is reportedly too slow
 - Crucial P3 Plus, QLC and DRAMless - users report that it can sync Geth but cannot stay in sync for Nethermind
 - Kingston NV1 - [probably](https://www.techpowerup.com/290339/psa-kingston-nv1-ssd-comes-with-a-hardware-spec-lottery-tlc-or-qlc-smi-or-phison) QLC and DRAMless and thus too slow on 2TB, but could be "anything" as Kingston do not guarantee specific components
 - Kingston NV2 - too slow to sync Nethermind in testing; might be able to sync Geth; like NV1 no guaranteed components
