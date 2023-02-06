@@ -25,6 +25,10 @@ The drive lists are ordered by interface and alphabetically by vendor name, not 
 
 Note that in some cases older "Performance" PCIe 4 drives can be bought at a lower price than a PCIe 3 "Mainstream" drive - shop around.
 
+- Often on sale: Samsung 970 EVO Plus, SK Hynix P31 Gold
+- Higher TBW than most: Seagate Firecuda 530, WD Red SN700
+- Lowest power draw: SK Hynix P31 Gold - great choice for Rock5 B and other low-power devices
+
 ## Hardware
 
 M.2 NVMe "Mainstream" - TLC, DRAM, PCIe 3
@@ -89,7 +93,9 @@ These "Budget" drive models are reportedly too slow to sync (all) mainnet execut
 
 # The Ugly
 
-"Budget" drive models that reportedly can sync mainnet execution layer clients, if slowly
+"Budget" drive models that reportedly can sync mainnet execution layer clients, if slowly. 
+
+Note that QLC drives usually have a markedly lower TBW than TLC, and will fail earlier.
 
 ## Hardware
 
