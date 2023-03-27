@@ -46,7 +46,8 @@ M.2 NVMe "Mainstream" - TLC, DRAM, PCIe 3
 
 2.5" SATA "Mainstream" - TLC, DRAM
 - Crucial MX500 SATA
-- Samsung 860/870 EVO SATA
+- Samsung 860 EVO SATA. 
+- Samsung 870 EVO SATA. 63k/20k IOPS
 - WD Blue 3D NAND SATA
 
 Honorable Pi4 mention:
