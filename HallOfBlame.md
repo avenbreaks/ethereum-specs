@@ -104,7 +104,7 @@ Note that QLC drives usually have a markedly lower TBW than TLC, and will fail e
 
 - Corsair MP400, QLC
 - Inland Professional 3D NAND, QLC
-- Intel 660p, QLC. 98k/33k r/w IOPS
+- Intel 660p, QLC. It's faster than some "mainstream" drives. 98k/33k r/w IOPS
 - Seagata Barracuda Q5, QLC
 - WD Black SN770, DRAMless
 - Samsung 870 QVO SATA, QLC
