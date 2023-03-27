@@ -29,14 +29,17 @@ Note that in some cases older "Performance" PCIe 4 drives can be bought at a low
 - Higher TBW than most: Seagate Firecuda 530, WD Red SN700
 - Lowest power draw: SK Hynix P31 Gold - great choice for Rock5 B and other low-power devices
 
+We've started crowd-sourcing some IOPS numbers. If you want to join the fun, run `fio --randrepeat=1 --ioengine=libaio --direct=1 --gtod_reduce=1 --name=test --filename=test --bs=4k --iodepth=64 --size=150G --readwrite=randrw --rwmixread=75` and give us the read and write IOPS. Don't forget to `rm test` after.
+
 ## Hardware
 
 M.2 NVMe "Mainstream" - TLC, DRAM, PCIe 3
+- AData XPG Gammix S11/SX8200 Pro. [Several hardware revisions](https://www.tomshardware.com/news/adata-switches-nand-on-sx8200-pro-ssd-performance-impacted). 68k/22k r/w IOPS. 
 - AData XPG Gammix S50 Lite
 - HP EX950
 - Mushkin Pilot-E
 - Samsung 970 EVO Plus 2TB, [pre-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 2B2QEXM7)
-- Samsung 970 EVO Plus 2TB, [post-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 3B2QEXM7 or 4B2QEXM7). In testing this syncs just as quickly as the pre-rework drive. 
+- Samsung 970 EVO Plus 2TB, [post-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 3B2QEXM7 or 4B2QEXM7). In testing this syncs just as quickly as the pre-rework drive. 140k/46k r/w IOPS.
 - SK Hynix P31 Gold
 - WD Black SN750 (but not SN750 SE)
 - WD Red SN700
