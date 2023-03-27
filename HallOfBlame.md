@@ -65,7 +65,8 @@ M.2 NVMe "Performance" - TLC, DRAM, PCIe 4 or 5
 - Samsung 990 Pro - there are reports of 990 Pro [rapidly losing health](https://www.tomshardware.com/news/samsung-990-pro-health-dropping-fast). A [firmware update](https://www.tomshardware.com/news/samsung-990-pro-firmware-update-released-ssd-health) to 1B2QJXD7 is meant to stop the rapid degradation, but won't reverse any that happened on earlier firmware. 
 - Seagate Firecuda 530
 - SK Hynix P41 Platinum
-- WD Black SN850(X)
+- WD Black SN850
+- WD Black SN850X. 101k/33k r/w IOPS
 
 Data center SSD drives will also work well.
 
