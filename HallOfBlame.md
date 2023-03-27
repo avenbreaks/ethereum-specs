@@ -34,7 +34,7 @@ We've started crowd-sourcing some IOPS numbers. If you want to join the fun, run
 ## Hardware
 
 M.2 NVMe "Mainstream" - TLC, DRAM, PCIe 3
-- AData XPG Gammix S11/SX8200 Pro. [Several hardware revisions](https://www.tomshardware.com/news/adata-switches-nand-on-sx8200-pro-ssd-performance-impacted). 68k/22k r/w IOPS
+- AData XPG Gammix S11/SX8200 Pro. [Several hardware revisions](https://www.tomshardware.com/news/adata-switches-nand-on-sx8200-pro-ssd-performance-impacted). It's slower than some QLC drives. 68k/22k r/w IOPS
 - AData XPG Gammix S50 Lite
 - HP EX950
 - Mushkin Pilot-E
