@@ -34,12 +34,12 @@ We've started crowd-sourcing some IOPS numbers. If you want to join the fun, run
 ## Hardware
 
 M.2 NVMe "Mainstream" - TLC, DRAM, PCIe 3
-- AData XPG Gammix S11/SX8200 Pro. [Several hardware revisions](https://www.tomshardware.com/news/adata-switches-nand-on-sx8200-pro-ssd-performance-impacted). 68k/22k r/w IOPS. 
+- AData XPG Gammix S11/SX8200 Pro. [Several hardware revisions](https://www.tomshardware.com/news/adata-switches-nand-on-sx8200-pro-ssd-performance-impacted). 68k/22k r/w IOPS
 - AData XPG Gammix S50 Lite
 - HP EX950
 - Mushkin Pilot-E
-- Samsung 970 EVO Plus 2TB, [pre-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 2B2QEXM7)
-- Samsung 970 EVO Plus 2TB, [post-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 3B2QEXM7 or 4B2QEXM7). In testing this syncs just as quickly as the pre-rework drive. 140k/46k r/w IOPS.
+- Samsung 970 EVO Plus 2TB, [pre-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 2B2QEXM7). 140k/46k r/w IOPS
+- Samsung 970 EVO Plus 2TB, [post-rework](https://www.tomshardware.com/news/samsung-is-swapping-ssd-parts-too) (firmware 3B2QEXM7 or 4B2QEXM7). In testing this syncs just as quickly as the pre-rework drive
 - SK Hynix P31 Gold
 - WD Black SN750 (but not SN750 SE)
 - WD Red SN700
