@@ -81,7 +81,7 @@ These "Budget" drive models are reportedly too slow to sync (all) mainnet execut
 
 - AData S40G/SX8100 4TB, QLC - the 2TB model is TLC and *should* be fine; 4TB is reportedly too slow
 - Crucial P3 Plus, QLC and DRAMless - users report that it can sync Geth but cannot stay in sync for Nethermind
-- Kingston NV1 - [probably](https://www.techpowerup.com/290339/psa-kingston-nv1-ssd-comes-with-a-hardware-spec-lottery-tlc-or-qlc-smi-or-phison) QLC and DRAMless and thus too slow on 2TB, but could be "anything" as Kingston do not guarantee specific components
+- Kingston NV1 - [probably](https://www.techpowerup.com/290339/psa-kingston-nv1-ssd-comes-with-a-hardware-spec-lottery-tlc-or-qlc-smi-or-phison) QLC and DRAMless and thus too slow on 2TB, but could be "anything" as Kingston do not guarantee specific components. 46k/15k r/w IOPS
 - Kingston NV2 - like NV1 no guaranteed components
 - WD Green SN350, QLC and DRAMless
 - Anything both QLC and DRAMless will likely not be able to sync at all or not be able to consistently keep up with "chain head"
@@ -104,7 +104,7 @@ Note that QLC drives usually have a markedly lower TBW than TLC, and will fail e
 
 - Corsair MP400, QLC
 - Inland Professional 3D NAND, QLC
-- Intel 660p, QLC
+- Intel 660p, QLC. 98k/33k r/w IOPS
 - Seagata Barracuda Q5, QLC
 - WD Black SN770, DRAMless
 - Samsung 870 QVO SATA, QLC
