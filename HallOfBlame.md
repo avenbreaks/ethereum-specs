@@ -64,7 +64,7 @@ M.2 NVMe "Performance" - TLC, DRAM, PCIe 4 or 5
 - Samsung 980 Pro (**not** 980) - a [firmware update](https://www.tomshardware.com/news/samsung-980-pro-ssd-failures-firmware-update) to 5B2QGXA7 is necessary to keep them from dying, if they are firmware 3B2QGXA7. Samsung's boot Linux is a bit broken, you may want to flash [from your own Linux](https://blog.quindorian.org/2021/05/firmware-update-samsung-ssd-in-linux.html/).
 - Samsung 990 Pro - there are reports of 990 Pro [rapidly losing health](https://www.tomshardware.com/news/samsung-990-pro-health-dropping-fast). A [firmware update](https://www.tomshardware.com/news/samsung-990-pro-firmware-update-released-ssd-health) to 1B2QJXD7 is meant to stop the rapid degradation, but won't reverse any that happened on earlier firmware. 
 - Seagate Firecuda 530
-- SK Hynix P41 Platinum
+- SK Hynix P41 Platinum / Solidigm P44 Pro
 - WD Black SN850
 - WD Black SN850X. 101k/33k r/w IOPS
 
