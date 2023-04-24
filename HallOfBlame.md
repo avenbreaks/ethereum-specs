@@ -73,6 +73,7 @@ Data center SSD drives will also work well.
 ## Cloud
 
 - Any baremetal/dedicated server service
+- AWS i3en.2xlarge
 - AWS gp3 w/ >=10k IOPS provisioned and an m6i/a.xlarge
 
 # The Bad
