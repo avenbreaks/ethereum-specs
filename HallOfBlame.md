@@ -45,7 +45,7 @@ M.2 NVMe "Mainstream" - TLC, DRAM, PCIe 3
 - WD Red SN700
 
 2.5" SATA "Mainstream" - TLC, DRAM
-- Crucial MX500 SATA
+- Crucial MX500 SATA, 46k/15k r/w IOPS
 - Samsung 860 EVO SATA. 
 - Samsung 870 EVO SATA. 63k/20k IOPS
 - WD Blue 3D NAND SATA
