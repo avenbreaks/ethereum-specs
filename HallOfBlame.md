@@ -46,8 +46,8 @@ M.2 NVMe "Mainstream" - TLC, DRAM, PCIe 3
 
 2.5" SATA "Mainstream" - TLC, DRAM
 - Crucial MX500 SATA, 46k/15k r/w IOPS
-- Samsung 860 EVO SATA. 
-- Samsung 870 EVO SATA. 63k/20k IOPS
+- Samsung 860 EVO SATA 
+- Samsung 870 EVO SATA, 63k/20k r/w IOPS
 - WD Blue 3D NAND SATA
 
 Honorable Pi4 mention:
@@ -66,7 +66,7 @@ M.2 NVMe "Performance" - TLC, DRAM, PCIe 4 or 5
 - Seagate Firecuda 530
 - SK Hynix P41 Platinum / Solidigm P44 Pro
 - WD Black SN850
-- WD Black SN850X. 101k/33k r/w IOPS
+- WD Black SN850X, 101k/33k r/w IOPS
 
 Data center SSD drives will also work well.
 
