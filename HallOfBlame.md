@@ -56,7 +56,7 @@ Honorable Pi4 mention:
 
 M.2 NVMe "Performance" - TLC, DRAM, PCIe 4 or 5
 - ADATA XPG Gammix S70
-- Corsair Force MP600
+- Corsair Force MP600 Pro (but not XT)
 - Crucial P5 Plus
 - Kingston KC2000 / KC3000 / Fury Renegade
 - Mushkin Redline Vortex
